@@ -1,1 +1,1 @@
-require("/src/index.scss");
+require("./index.scss");
